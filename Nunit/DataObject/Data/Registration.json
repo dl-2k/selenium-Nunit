@@ -1,0 +1,16 @@
+[
+  {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "john.doe@example.com",
+    "DateOfBirth": "10 Jun 2024",
+    "MobilePhone": "1234567890",
+    "Subject": "Maths",
+    "Gender": "Male",
+    "Hobbies": "Reading",
+    "Picture": "C:/Users/ADMIN/OneDrive/Máy tính/New folder/yeucau.png",
+    "CurrentAddress": "123 Main St",
+    "State": "NCR",
+    "City": "Delhi"
+  }
+]
